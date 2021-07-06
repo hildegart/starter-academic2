@@ -71,11 +71,13 @@ highlight_name: false
 ---
 
 
-Mein Name ist Dana Behrendt. Geboren und aufgewachsen bin ich in Rostock direkt an der Ostsee.
-Nach meiner Ausbildung zur Kauffrau für Dialogmarketing bei AIDA Cruises entschied ich mich noch einmal die Schulbank zu drücken. Ich wollte noch einen höheren Bildungsabschluss erreichen, mir die Chance für ein Studium offen halten und so absolvierte ich die Fachhochschulreife im Bereich Wirtschaft binnen einen Jahres.
+Mein Name ist Dana Behrendt. Geboren und aufgewachsen bin ich in Rostock direkt an der schönen Ostsee.
+Nach meiner Ausbildung zur Kauffrau für Dialogmarketing bei AIDA Cruises entschied ich mich noch einmal die Schulbank zu drücken. Ich wollte noch einen höheren Bildungsabschluss erreichen, mir die Chance für ein Studium offen halten und so absolvierte ich die Fachhochschule im Bereich Wirtschaft binnen einen Jahres.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+# Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+# Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
